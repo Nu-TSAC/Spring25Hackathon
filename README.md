@@ -6,7 +6,7 @@ Choose between two predictive modeling tracks:
 
 * Basketball Track: Predict NBA players' Field Goal Percentage (FG%) for the 2025 season.
 
-* Baseball Track: Predict baseball exit velocity based on pre-contact metrics.
+* Baseball Track: Predict baseball Exit velocity (Launch Speed) based on pre-contact metrics.
 
 ## Basketball Track
 
