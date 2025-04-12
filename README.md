@@ -70,6 +70,8 @@ Ensure reproducibility of your approach (clearly documented code or notebooks ar
 
 Each submission should have an acompanying powerpoint presenation that will be presented with.
 
+Must be in-person so you can present the findings!
+
 Submission CSV + Powerpoint can be emailed to neusportsanalytics@gmail.com as either seperate files or a link to a github repo.
 
 ### Submission Deadline
