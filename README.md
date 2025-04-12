@@ -16,13 +16,15 @@ Predict the FG% for players based on provided shot-level data.
 
 ### Data
 
-NBA Shots Dataset
+`basketball_track/train.csv.zip`
 
-Player and team names will be anonymized.
+Player and team names are anonymized.
 
 ### Submission
 
-Format: CSV or JSON
+`basketball_track/submission.csv`
+
+Format: CSV
 
 Structure: Player IDs as index, predicted FG% as values.
 
@@ -40,11 +42,17 @@ Predict exit velocity using pre-contact metrics such as bat speed, pitch speed, 
 
 Statcast Dataset
 
+`baseball_track/train.csv`
+
 Exit velocity and hit location data will be removed.
 
 ### Submission
 
-Format: CSV or JSON
+`baseball_track/test.csv`
+
+`baseball_track/submission.csv`
+
+Format: CSV
 
 Structure: Play IDs as index, predicted Exit Velocity as values.
 
